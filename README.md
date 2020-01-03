@@ -13,3 +13,10 @@
 * [chinastock](https://github.com/nooperpudd/chinastock/) -- 中国股票行情数据分析
 * [abu](https://github.com/bbfamily/abu/) -- 阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构 http://www.abuquant.com/
 * [zwPython](https://github.com/ziwang-com/zwPython/) -- zwPython是基于winpython的集成式python开发平台 http://www.ziwang.com
+
+
+## 网站
+
+* [BigQuant](https://bigquant.com/) -- 人工智能量化平台
+* [宽客在线](https://www.quantinfo.com/) -- 宽客在线
+* [极宽](http://www.topquant.vip/) -- 中国Python量化的启蒙人及开拓者
