@@ -11,3 +11,5 @@
 * [TensorTrade](https://github.com/notadamking/tensortrade/) -- An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents. https://discord.gg/ZZ7BGWh
 * [QUANTAXIS](https://github.com/QUANTAXIS/QUANTAXIS/) -- QUANTAXIS 支持任务调度 分布式部署的 股票/期货/自定义市场 数据/回测/模拟/交易/可视化 纯本地PAAS量化解决方案 http://www.yutiansut.com:3000
 * [chinastock](https://github.com/nooperpudd/chinastock/) -- 中国股票行情数据分析
+* [abu](https://github.com/bbfamily/abu/) -- 阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构 http://www.abuquant.com/
+* [zwPython](https://github.com/ziwang-com/zwPython/) -- zwPython是基于winpython的集成式python开发平台 http://www.ziwang.com
